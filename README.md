@@ -6,8 +6,6 @@ This Power BI project features an interactive dashboard designed to analyze a co
 
 <img width="656" alt="Image" src="https://github.com/user-attachments/assets/5945e5f0-7ef8-4a24-868e-3a3177dad223" />
 
-> *Add a screenshot of your dashboard in the `images/` folder to display a visual preview of the project.*
-
 ## 🎯 Project Objectives
 
 - Visualize sales by product, region, and time period
